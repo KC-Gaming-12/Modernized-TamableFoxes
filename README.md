@@ -86,5 +86,5 @@ After building, you can find the plugin in `./run/plugins/`
 *<small>Old information: To build you must have every version of spigot starting from 1.20.1 built and inside your maven cache. To do that, look at [compileSpigotVersions.sh](compileSpigotVersions.sh) that lists all the java commands and the java versions for them.</small> *
 
 ## Metrics collection
-![metrics](https://bstats.org/signatures/bukkit/Modernized%20TamableFoxes.svg)
+![metrics](https://bstats.org/signatures/bukkit/Modernized%20TaimableFoxes.svg)
 Tamable Foxes collects anonymous server statistics through bStats, an open-source statistics service for Minecraft software. If you wish to opt-out, you can do so in the `bstats/config.yml` file.
