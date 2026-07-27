@@ -1,4 +1,4 @@
-<h1 align="center">Tamable Foxes-Revived</h1>
+<h1 align="center">Modernized TamableFoxes</h1>
 <p align="center">
 SpigotMC Plugin that gives you the ability to tame foxes!
 </p>
