@@ -32,7 +32,7 @@ import java.util.logging.Level;
 
 public final class TamableFoxes extends JavaPlugin implements Listener {
     private static TamableFoxes plugin;
-    public static final int BSTATS_PLUGIN_ID = 32929;
+    public static final int BSTATS_PLUGIN_ID = 32942;
 
     private boolean versionSupported = true;
 
