@@ -48,3 +48,19 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Build artifacts
+releases/
+*.jar
+spigot-*.jar
+BuildTools.jar
+BuildData/
+work/
+Bukkit/
+CraftBukkit/
+Spigot/
+*.jar
+Work/
+work/
+BuildData/
+logs/
